@@ -33,6 +33,8 @@ const freqMap = {
   2: 329.6,
   3: 392,
   4: 466.2
+  5: 450,
+  6: 500
 }
 function playTone(btn,len){ 
   o.frequency.value = freqMap[btn]
