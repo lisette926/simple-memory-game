@@ -60,7 +60,7 @@ Tutorial Gateway - Nested if statements]
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://drive.google.com/file/d/1tnW7IHpdVM2sbKbPfhQoQr3rqMTWJ2ZX/view?usp=sharing)
+[My 5-minute Interview Recording]
 
 
 ## License
